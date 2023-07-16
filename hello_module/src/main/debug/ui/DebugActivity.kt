@@ -9,5 +9,11 @@ class DebugActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_debug)
 
+
+
+
+
+
+        print("hello")
     }
 }
